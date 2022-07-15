@@ -7,7 +7,7 @@
 
 <div> <img  src="https://img.shields.io/twitter/follow/svetlanajokic?style=social"/>
 </div>
-<div> <img src="https://github-readme-streak-stats.herokuapp.com?user=Holllyyyy&theme=github-dark-blue"/> </div>
+<div> <img src="https://github-readme-streak-stats.herokuapp.com?user=Holllyyyy&theme=dracula"/> </div>
 <!--
 **Holllyyyy/Holllyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
