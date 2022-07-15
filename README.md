@@ -16,10 +16,10 @@
 - Connect with me:
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/svetlana-jokic-787432100/)
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/svetlanajokic)
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](https://twitter.com/svetlanajokic)
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](svetlanajokic95@gmail.com)
 
 
-
+### My treak stats
 <div> <img src="https://github-readme-streak-stats.herokuapp.com?user=Holllyyyy&theme=dracula"/> </div>
 <!--
 **Holllyyyy/Holllyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
