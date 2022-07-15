@@ -2,8 +2,16 @@
 
 ---
 
-### :woman_technologist: About me : I graduated  Bachelor of Science in Tourism- module hotel management, and my graduate work was based on Web accessibility where I did a case study in the hotel industry. 
-- I've discovered how web accessibility is essential for users and websites, so I started to learn about web development, and am currently learning JavaScript.
+### :woman_technologist: About me : 
+- I graduated  Bachelor of Science in Tourism- module hotel management, and my graduate work was based on Web accessibility where I did a case study in the hotel industry. 
+- I've discovered how web accessibility is essential for users and websites, so I started to learn about web development. 
+- I am currently learning JavaScript.
+- In my free time I like to: 
+- Play video games
+- Workout 
+- Travel
+- Connect with me:
+ [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/svetlana-jokic-787432100/)
 
 
 
