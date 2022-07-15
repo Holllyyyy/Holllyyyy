@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/5GqrzudeH7m7fKrUoc/giphy.gif" width="100"/>
+</div>
 <!--
 **Holllyyyy/Holllyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
