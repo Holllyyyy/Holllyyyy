@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+---
+
+### :woman_technologist:
+- About me :
+I graduated  Bachelor of Science in Tourism- module hotel management, and my graduate work was based on Web accessibility where I did a case study in the hotel industry.  I've discovered how web accessibility is essential for users and websites, so I started to learn about web development, and am currently learning JavaScript.
+
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5GqrzudeH7m7fKrUoc/giphy.gif" width="100"/>
