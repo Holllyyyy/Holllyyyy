@@ -4,11 +4,11 @@
 </div>
 
 ---
-### Hi there, my name is Svetlana and I'm currently learning to become front-end developer 👋
+### Hi there, my name is Svetlana 👋:heart_eyes:
 ---
 
 ### :woman_technologist: About me : 
-- I graduated  Bachelor of Science in Tourism- module hotel management, and my graduate work was based on Web accessibility where I did a case study in the hotel industry. 
+- I graduated  Bachelor of Science in Tourism- module hotel management, and my graduate work was based on Web accessibility where I did the case study in the hotel industry. 
 - I've discovered how web accessibility is essential for users and websites, so I started to learn about web development. 
 - :dart: I am currently learning JavaScript.
 - In my free time I like to: 
@@ -21,6 +21,14 @@
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/svetlanajokic)
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](svetlanajokic95@gmail.com)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
 
 ### My streak stats
 <div> <img src="https://github-readme-streak-stats.herokuapp.com?user=Holllyyyy&theme=dracula"/> </div>
