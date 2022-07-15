@@ -1,8 +1,10 @@
-### Hi there 👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5GqrzudeH7m7fKrUoc/giphy.gif" width="300"/>
 </div>
 
+---
+### Hi there, my name is Svetlana and I'm currently learning to become front-end developer 👋
 ---
 
 ### :woman_technologist: About me : 
