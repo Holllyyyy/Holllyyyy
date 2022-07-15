@@ -1,10 +1,13 @@
 
+
+---
+### Hi there, my name is Svetlana 👋:heart_eyes:
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5GqrzudeH7m7fKrUoc/giphy.gif" width="300"/>
 </div>
 
----
-### Hi there, my name is Svetlana 👋:heart_eyes:
 ---
 
 ### :woman_technologist: About me : 
