@@ -11,7 +11,7 @@
 - Workout 
 - Travel
 - Connect with me:
- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/svetlana-jokic-787432100/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/svetlana-jokic-787432100/)
 
 
 
