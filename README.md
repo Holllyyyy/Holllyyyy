@@ -4,6 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5GqrzudeH7m7fKrUoc/giphy.gif" width="100"/>
 </div>
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsvetlanajokic
 <!--
 **Holllyyyy/Holllyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
