@@ -1,5 +1,3 @@
-
-
 ---
 ### Hi there, my name is Svetlana 👋:heart_eyes:
 
